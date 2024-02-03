@@ -1,5 +1,5 @@
 # Güncel Chocolatey
-Chocolatey paketlerinin güncelleştirilmesini otomatikleştiren PowerShell scripti. 
+Chocolatey paketlerinin güncelleştirilmesini otomatikleştiren PowerShell scripti. Script, sistem her başladığında arkaplanda Chocolatey paketlerinin denetlenip güncelleştirilmesini sağlar.
 
 # Çalıştırmak için
 
