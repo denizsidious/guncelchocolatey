@@ -3,6 +3,8 @@ Chocolatey paketlerinin güncelleştirilmesini otomatikleştiren PowerShell scri
 
 # Çalıştırmak için
 
+PowerShell'i yönetici olarak çalıştırın.
+
 ```
 irm https://raw.githubusercontent.com/denizsidious/guncelchocolatey/main/GuncelChocolatey.ps1 | iex
 ```
